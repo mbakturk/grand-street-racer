@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yahaxball</string>
+    <string name="welcome">Welcome the Yahaxball</string>
+    <string name="start_the_game">Start the game</string>
+    <string name="close_game">Close the game</string>
+    <string name="quit">Quit</string>
+    <string name="are_you_sure_about_exiting_the_game">Are you sure you want to quit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
