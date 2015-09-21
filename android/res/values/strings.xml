@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Yahaxball</string>
-    <string name="welcome">Welcome the Yahaxball</string>
+    <string name="app_name">Grand Street Racer</string>
+    <string name="welcome">Welcome the Grand Street Racer</string>
     <string name="start_the_game">Start the game</string>
     <string name="close_game">Close the game</string>
     <string name="quit">Quit</string>
